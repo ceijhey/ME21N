@@ -1,6 +1,6 @@
 Bem vindo!
 
-Esse código é voltando para SAP.
+Estou trabalhando em desenvolver um código para atender atividades de supply chain.
 
 Funcionalidade:
 
@@ -9,6 +9,12 @@ Funcionalidade:
 ° inserir Centro de origem.
 ° Inserir centro destino.
 ° Inserir deposito destino.
-° inseriri até 42 linhas.
+° inserir itens para qualquer total de acordo o projeto da empresa.
 
 
+Atualmente essa versão precisa ensinar como contornar os erros e seguir o processo de digitação. 
+
+Do mais, está fazendo um otimo trabalhado.
+
+informa a remessa,produto,lote,quantidade,status,pedido criado.
+vai depender do seu processo :)
